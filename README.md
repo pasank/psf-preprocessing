@@ -1,0 +1,1 @@
+Preprocessing for implementing PSF Algorithm (F. Martinez Alvarez, A. Troncoso, J. C. Riquelme, and J. S. Aguilar Ruiz, "Energy Time Series Forecasting Based on Pattern Sequence Similarity," IEEE Transactions on Knowledge and Data Engineering, vol. 23, no. 8, pp. 1230-1243, Aug. 2011.)
